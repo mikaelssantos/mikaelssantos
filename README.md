@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil
 
-meu nome é mikael
+## meu nome é mikael
 
 sou um ex programador,
 atualmente no 1 do ensino medio
